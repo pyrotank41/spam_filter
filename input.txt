@@ -1,0 +1,1 @@
+load spamlist1.txt \r
